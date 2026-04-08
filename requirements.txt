@@ -1,0 +1,4 @@
+# Optional dependencies for the Linux Training Terminal.
+# The terminal runs with zero dependencies; this only adds nicer interactive
+# input on Windows (tab completion + arrow-key history).
+pyreadline3 >= 3.4 ; platform_system == "Windows"
