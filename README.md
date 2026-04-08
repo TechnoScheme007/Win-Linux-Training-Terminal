@@ -1,5 +1,6 @@
 # Linux Training Terminal
 <img width="1106" height="622" alt="Screenshot 2026-04-08 121512" src="https://github.com/user-attachments/assets/18220a64-bd0e-4302-b6b9-78c9005d1011" />
+*Main interface showing the Ubuntu 22.04-style prompt with virtual filesystem and Kali-inspired tools*
 
 A self-contained Linux shell emulator for Windows. Around **125 commands**, real shell scripting, sandboxed Windows folder mounts, and a Kali-style security toolkit — all in **a single Python file** with no required dependencies.
 
